@@ -54,16 +54,18 @@ section {
 
 .two {
     background: url(imagens/background001.jpg) no-repeat;
-    background-size: 100% 100%;
+    background-position: right center;
     background-attachment: fixed;
     color: aliceblue;
+    background-size: cover;
 }
 
 .tree {
     background: url(imagens/background002.jpg) no-repeat;
-    background-size: 100% 100%;
+    background-position: right center;
     background-attachment: fixed;
     color: rgb(255, 255, 255);
+    background-size: cover;
 }
 
 .two p, .tree p {
